@@ -16,3 +16,6 @@ add line6
 add branch dev
 
 add master a line
+
+add branch dev merge test
+
