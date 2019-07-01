@@ -24,3 +24,6 @@ add branch dev
 add branch dev ddd 
 
 bug fix
+
+add dev stash
+
