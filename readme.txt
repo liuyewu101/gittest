@@ -27,3 +27,6 @@ bug fix
 
 add dev stash
 
+add rebase text
+
+
